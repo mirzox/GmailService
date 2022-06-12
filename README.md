@@ -3,7 +3,6 @@
 # To run code you should create .env file
 ![img.png](img.png)
 
-to get PASSWORD you should to go to this web page
 
 # How to create and use app passwords
 1. Open the [Google Account page](https://myaccount.google.com/personal-info)
