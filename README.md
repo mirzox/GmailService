@@ -17,6 +17,7 @@
    - Your account has Advanced Protection enabled.
    ![img_2.png](img_2.png)
 4. At the bottom of the page, click **Application** and select the option you > want click Device and select the model > Create .
+
    ![img_3.png](img_3.png)
 5. Following the instructions, enter the application password (16-character code on the yellow line).
    ![img_4.png](img_4.png)
